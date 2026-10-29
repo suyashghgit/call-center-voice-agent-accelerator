@@ -164,3 +164,5 @@ cython_debug/
 # DevTunnels
 DevTunnels
 .azure
+server/samples/transcription/*.png
+demo-video/
